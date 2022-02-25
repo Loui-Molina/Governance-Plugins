@@ -764,14 +764,14 @@
                     "type": "Social Trading Desktop App",
                     "name": "Social Trading Desktop App #2",
                     "project": "User-Apps",
-                    "id": "820d3a52-061b-466f-b0e2-9f4969119267",
+                    "id": "8c8bf3a3-8ae5-4ecd-b206-54a169738df1",
                     "config": "{\n    \"codeName\": \"Social-Trading-Desktop-App-2\"\n}",
                     "signingAccount": {
                         "type": "Signing Account",
                         "name": "New Signing Account",
                         "project": "Governance",
-                        "id": "936cfe8d-ec58-4927-96fd-79b03207afec",
-                        "config": "{\"codeName\":\"Social-Trading-Desktop-App-2\",\"signature\":{\"message\":\"Loui-Molina\",\"messageHash\":\"0x6de0af55e96cd9355a0b5ecf1118d8ef9e919dbf03cb1a292f475c515ff35970\",\"v\":\"0x1b\",\"r\":\"0xc443e201bbcbc37287a019a5511a75ca8544bee9dab1c9c2b48e0bbe74137b39\",\"s\":\"0x3bbbae845457fc766eb73a2794241e24a709b6a2dc249872ede6f938450d8b6f\",\"signature\":\"0xc443e201bbcbc37287a019a5511a75ca8544bee9dab1c9c2b48e0bbe74137b393bbbae845457fc766eb73a2794241e24a709b6a2dc249872ede6f938450d8b6f1b\"}}"
+                        "id": "b9e6a397-bcc3-4eed-8565-94e17774b6eb",
+                        "config": "{\"codeName\":\"Social-Trading-Desktop-App-2\",\"signature\":{\"message\":\"Loui-Molina\",\"messageHash\":\"0x6de0af55e96cd9355a0b5ecf1118d8ef9e919dbf03cb1a292f475c515ff35970\",\"v\":\"0x1c\",\"r\":\"0x817b77915c7f38d69ced34cdf4e86cfff31a5fdeb276e29c951e6aaf67f9fce3\",\"s\":\"0x1e99c3e445f55ef2cbeee3b4249ef42dd14ae8d4dc363dba1f4d1dc8982dc0b6\",\"signature\":\"0x817b77915c7f38d69ced34cdf4e86cfff31a5fdeb276e29c951e6aaf67f9fce31e99c3e445f55ef2cbeee3b4249ef42dd14ae8d4dc363dba1f4d1dc8982dc0b61c\"}}"
                     }
                 }
             ],
